@@ -24,7 +24,7 @@
 My name is Mayya. I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :dvd: I’m working as a Frontend developer and contributing to frontend building web applications.
 - :computer: My main tech stack includes React | Redux | Typescript
-- :zap: In my free time, I solve problems on Codewars and Leetcode
+- :zap: In my free time, I solve problems on <a href='https://www.codewars.com/users/mayariff'>Codewars</a> and Leetcode
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MayaRiff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MayaRiff)
 ---
 ### :hammer_and_wrench: Languages and Tools :
