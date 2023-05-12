@@ -44,7 +44,7 @@ My name is Mayya. I am a Front-end Developer <img src="https://media.giphy.com/m
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 &nbsp;
-  <img src="https://seeklogo.com/vector-logo/435661/react-query" title="ReactQuery" **alt="ReactQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/react-query.svg" title="ReactQuery" **alt="ReactQuery" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="StyledComponents" **alt="StyledComponents" width="40" height="40"/>
 </div>
