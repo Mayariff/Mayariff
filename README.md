@@ -54,7 +54,7 @@ My name is Mayya. I am a Front-end Developer <img src="https://media.giphy.com/m
 
 ### :dog: My Pet-projects :
 - :mortar_board: Сountry travel app: https://mayariff.github.io/RQ-countries/ <a href="https://github.com/Mayariff/RQ-countries" target="_blank">
-  <img src="https://img.shields.io/badge/Watch code-orange?style=for-the-badge&logo=GitHub&logoColor=white" alt="Watch code" />
+  <img src="https://img.shields.io/badge/Watch code-green?style=for-the-badge&logo=GitHub&logoColor=white" alt="Watch code" />
   </a>
 - :star: Displaying dates and events module: https://mayariff.github.io/historical_dates/  <a href="https://github.com/Mayariff/historical_dates" target="_blank">
   <img src="https://img.shields.io/badge/Watch code-orange?style=for-the-badge&logo=GitHub&logoColor=white" alt="Watch code" />
