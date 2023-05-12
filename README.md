@@ -25,7 +25,7 @@
 My name is Mayya. I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :dvd: I’m working as a Frontend developer and contributing to frontend building web applications.
 - :computer: My main tech stack includes React | Redux | Typescript
-- :zap: In my free time, I solve problems on <a href='https://www.codewars.com/users/mayariff'>Codewars</a> and Leetcode
+- :zap: In my free time, I solve problems on <a href='https://www.codewars.com/users/mayariff'>Codewars</a> and <a href='https://leetcode.com/MayaRiff'>Leetcode</a>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MayaRiff-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MayaRiff)
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -43,6 +43,10 @@ My name is Mayya. I am a Front-end Developer <img src="https://media.giphy.com/m
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+&nbsp;
+  <img src="https://seeklogo.com/vector-logo/435661/react-query" title="ReactQuery" **alt="ReactQuery" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="StyledComponents" **alt="StyledComponents" width="40" height="40"/>
 </div>
 
 --- 
